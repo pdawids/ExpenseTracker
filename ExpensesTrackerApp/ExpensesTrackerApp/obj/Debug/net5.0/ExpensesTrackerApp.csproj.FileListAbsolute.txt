@@ -1,0 +1,16 @@
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.exe
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.deps.json
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.runtimeconfig.json
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.runtimeconfig.dev.json
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.dll
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ref\ExpensesTrackerApp.dll
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\bin\Debug\net5.0\ExpensesTrackerApp.pdb
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.csprojAssemblyReference.cache
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.dll
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ref\ExpensesTrackerApp.dll
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.pdb
+C:\Users\Dawid\source\repos\ExpensesTrackerApp\ExpensesTrackerApp\obj\Debug\net5.0\ExpensesTrackerApp.genruntimeconfig.cache
