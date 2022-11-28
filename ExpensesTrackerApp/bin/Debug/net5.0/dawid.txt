@@ -1,0 +1,9 @@
+woda,tools,123
+piwo,food,244
+wino,food,124
+piwo,food,1234
+,,0
+wiadro,tools,233.44
+mlotek,tools,44.66
+wod,food,333444.444
+woda,siano,232.33
